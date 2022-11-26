@@ -1,0 +1,8 @@
+body {
+   background-image: url(abstract.jpg);
+   background-repeat: no-repeat;
+   background-size: 90rem 50rem;
+}
+.wrapper {
+   border: 1px solid rgb(0, 0, 0);
+}
